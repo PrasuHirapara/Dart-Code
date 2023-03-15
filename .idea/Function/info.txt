@@ -1,0 +1,2 @@
+ Functions are Objects in dart i.e. it can be assigned to variable or passed as parameter.
+ Function always returns something( by default : null ).
