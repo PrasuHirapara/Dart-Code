@@ -1,0 +1,1 @@
+When normal flow of program is stopped due to some exception.
